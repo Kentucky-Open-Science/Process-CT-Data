@@ -326,4 +326,4 @@ If you use this preprocessing pipeline in your research, please cite the corresp
 
 ## License
 
-This repository is part of the CT-RATE project. See the project root for license information.
+Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
